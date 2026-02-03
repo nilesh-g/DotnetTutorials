@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ClassObjects/ClassObjects.csproj" />
+  <Project Path="InheritanceBasics/InheritanceBasics.csproj" />
+  <Project Path="Interfaces/Interfaces.csproj" Id="ddffcf39-e517-414c-92df-51eecdad821f" />
+  <Project Path="ObjectInterfaces/ObjectInterfaces.csproj" Id="6e1ccc01-7814-485b-b7cc-2c8f2fca7623" />
+  <Project Path="ObjectSlicingVirtual/ObjectSlicingVirtual.csproj" />
+  <Project Path="StaticDemo/StaticDemo.csproj" Id="5c46d658-d3fa-4439-a04d-3c4e742a82eb" />
+  <Project Path="VirtualAbstractSealed/VirtualAbstractSealed.csproj" Id="e597f46d-8d3e-4a8f-9a13-0f4d4619b77d" />
+</Solution>
