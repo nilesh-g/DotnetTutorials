@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Arrays/Arrays.csproj" Id="e1415cd0-c61c-4dd0-a28c-27a28608b00d" />
+  <Project Path="ClassObjects/ClassObjects.csproj" Id="78c10e46-a633-494b-9418-8cd2e82c1279" />
+  <Project Path="DataTypes/DataTypes.csproj" Id="06a17559-05f3-495a-8a7d-999c652446a9" />
+  <Project Path="FirstCoreApp/FirstCoreApp.csproj" />
+  <Project Path="Functions/Functions.csproj" Id="e5d5fcb0-7046-4721-9d34-0f70420fb1df" />
+  <Project Path="Namespaces/Namespaces.csproj" Id="9da3458d-c97d-4354-a762-efd15d7de682" />
+  <Project Path="SecondCoreApp/SecondCoreApp.csproj" />
+  <Project Path="StructEnums/StructEnums.csproj" Id="e0df68ac-b1e0-40b6-a322-22ed8e133b6f" />
+</Solution>
