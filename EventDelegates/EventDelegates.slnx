@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Delegates/Delegates.csproj" />
+  <Project Path="Events/Events.csproj" Id="d3239371-715f-41e8-bd1e-0fe206b23fcd" />
+  <Project Path="EventsStd/EventsStd.csproj" Id="8bfe758e-5e54-4968-933b-229574f4cd26" />
+</Solution>
