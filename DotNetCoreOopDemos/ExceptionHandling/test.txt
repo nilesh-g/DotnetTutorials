@@ -1,0 +1,3 @@
+﻿Hello, C#.NET.
+This is simple File IO code.
+May throw runtime exception.

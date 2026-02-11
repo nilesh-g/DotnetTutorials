@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ClassObjects/ClassObjects.csproj" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="381c9804-6f38-47df-8856-4fc6005bcb9f" />
   <Project Path="InheritanceBasics/InheritanceBasics.csproj" />
   <Project Path="Interfaces/Interfaces.csproj" Id="ddffcf39-e517-414c-92df-51eecdad821f" />
   <Project Path="ObjectInterfaces/ObjectInterfaces.csproj" Id="6e1ccc01-7814-485b-b7cc-2c8f2fca7623" />
