@@ -53,7 +53,8 @@
     }
     */
 
-    class InvalidTimeException : ApplicationException
+    // NOTE Correction: Modern .NET recommend custom exception class to be inherited from System.Exception (not ApplicationException)
+    class InvalidTimeException : Exception
     {
         public string Field { get; set; }
         public string Value { get; set; }
