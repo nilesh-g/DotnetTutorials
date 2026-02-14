@@ -1,3 +1,12 @@
 <Solution>
+  <Project Path="Pattern1_Factory/Pattern1_Factory.csproj" />
+  <Project Path="Pattern2_StrategyWithDelegates/Pattern2_StrategyWithDelegates.csproj" />
+  <Project Path="Pattern2_StrategyWithInterfaces/Pattern2_StrategyWithInterfaces.csproj" />
+  <Project Path="Pattern3_ObserverWithInterfaces/Pattern3_ObserverWithInterfaces.csproj" />
+  <Project Path="Pattern4_TemplateMethod/Pattern4_TemplateMethod.csproj" />
+  <Project Path="Pattern5_Decorator/Pattern5_Decorator.csproj" Id="56843e55-8914-47d2-9d34-e286d40d9d5a" />
+  <Project Path="Pattern6_Builder/Pattern6_Builder.csproj" Id="7cde6377-e0da-45a9-9c81-f7fd88ea7e04" />
+  <Project Path="Pattern7_Singleton/Pattern7_Singleton.csproj" Id="363358a6-2043-415a-8d09-5b25a2c8d791" />
+  <Project Path="Pattern8_Adapter/Pattern8_Adapter.csproj" Id="3caee472-644d-4221-9f34-c5c48a7bc5fd" />
   <Project Path="SolidPrinciples/SolidPrinciples.csproj" Id="68d59271-ec71-4d42-bc30-6245c1a3d9bc" />
 </Solution>
