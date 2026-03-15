@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="AsyncAwait/AsyncAwait.csproj" Id="492bbdab-b2e5-41cd-b231-c99ed30e4131" />
+  <Project Path="Collections_Generics/Collections_Generics.csproj" Id="a34e38a0-b020-4bd0-9aa3-096f8fedd3dd" />
+  <Project Path="Collections_Legacy/Collections_Legacy.csproj" Id="e2086610-65dc-4882-9201-9cf5659870ea" />
+  <Project Path="ExprBodied_Indexer_Enumerator/ExprBodied_Indexer_Enumerator.csproj" />
+  <Project Path="FileIO/FileIO.csproj" Id="68f34b27-c2e9-426c-91a9-6d13dd12f674" />
+  <Project Path="GenericProg_Class/GenericProg_Class.csproj" Id="439fd60e-5b2b-4dcd-84f1-d008bc85b663" />
+  <Project Path="GenericProg_Collection/GenericProg_Collection.csproj" Id="c1299315-5d16-468c-afca-917f0d714081" />
+  <Project Path="GenericProg_Constraints/GenericProg_Constraints.csproj" Id="b10143c1-a2c7-4f32-9202-7a587a3be4b2" />
+  <Project Path="GenericProg_Delegates/GenericProg_Delegates.csproj" Id="15ba8481-b287-48d9-9f75-2464a2c19d3b" />
+  <Project Path="GenericProg_Interfaces/GenericProg_Interfaces.csproj" Id="a83a78da-4571-4b66-98f8-ff728ecba500" />
+  <Project Path="GenericProg_Methods/GenericProg_Methods.csproj" Id="06404464-d25d-4fce-b83e-2d34574832d1" />
+  <Project Path="GenericProg_Object/GenericProg_Object.csproj" Id="954c4e0e-32ea-496c-9f54-acc18605ced2" />
+  <Project Path="LINQ/LINQ.csproj" Id="5b83bad2-687b-4e8f-aca3-ab8529bbd447" />
+</Solution>
